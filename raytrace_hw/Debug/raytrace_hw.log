@@ -1,0 +1,26 @@
+﻿  bmp.cpp
+C:\Users\Top\source\repos\windows-vs\raytrace_hw\bmp.cpp(43,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Top\source\repos\windows-vs\raytrace_hw\bmp.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Top\source\repos\windows-vs\raytrace_hw\bmp.cpp(68,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Top\source\repos\windows-vs\raytrace_hw\bmp.cpp(52,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\Top\source\repos\windows-vs\raytrace_hw\bmp.cpp(85,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Top\source\repos\windows-vs\raytrace_hw\bmp.cpp(86,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Top\source\repos\windows-vs\raytrace_hw\bmp.cpp(78,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+  camera.cpp
+  color.cpp
+  light.cpp
+C:\Users\Top\source\repos\windows-vs\raytrace_hw\light.cpp(78,42): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Top\source\repos\windows-vs\raytrace_hw\light.cpp(80,48): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Top\source\repos\windows-vs\raytrace_hw\light.cpp(102,9): warning C4244: 'return': conversion from '__int64' to 'double', possible loss of data
+  main.cpp
+  primitive.cpp
+C:\Users\Top\source\repos\windows-vs\raytrace_hw\primitive.cpp(556,16): warning C4018: '<': signed/unsigned mismatch
+  raytracer.cpp
+C:\Users\Top\source\repos\windows-vs\raytrace_hw\raytracer.cpp(31,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  scene.cpp
+  vector3.cpp
+  Generating Code...
+C:\Users\Top\source\repos\windows-vs\raytrace_hw\vector3.cpp(92): warning C4715: 'Vector3::GetCoord': not all control paths return a value
+  raytrace_hw.vcxproj -> C:\Users\Top\source\repos\windows-vs\Debug\raytrace_hw.exe
